@@ -1,0 +1,1 @@
+This is my quiz project in python. It involved asking a series of multiple choice questions and after answering will tell you if your correct or not. Will also give you your score as you go and your final score at the end. 
